@@ -4,6 +4,8 @@ Current projects (:star: = under development, :unlock: = maintainted)
 
 :star: [sita-website](https://simpletactics.de/), a frontend-backend application for our private gaming group.
 
-:unlock: [GitGood](https://gitgood.mohjohfox.de/), a dart counting website, developed as a project at the DHBW. 
+:unlock: [GitGood](https://gitgood.mohjohfox.de/), a dart counting website, developed as a project at the DHBW.
+
+:unlock: [penAndPaperOverview](https://github.com/SimpletacticsGaming/penAndPaperOverview), overview page for Pen-&-Paper roleplay. 
 
 I usually develop in Java, Kotlin and TypeScript using IntelliJ IDEA, Visual Studio Code and Eclipse.
